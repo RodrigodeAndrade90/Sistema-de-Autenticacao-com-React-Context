@@ -20,7 +20,7 @@ Este projeto é uma aplicação React desenvolvida como parte da disciplina Labo
 
 ### Colocações no terminal
 
-- Backend:
+###  Backend:
 
 #### Entrar na pasta :
 ```
@@ -37,7 +37,7 @@ npm install
 npm run dev
 ```
 
-- Frontend:
+###  Frontend:
 
 #### Entrar na pasta :
 ```
